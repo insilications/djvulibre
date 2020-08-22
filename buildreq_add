@@ -8,3 +8,4 @@ autogen
 autogen-dev
 tiff-dev
 tiff-staticdev
+findutils
